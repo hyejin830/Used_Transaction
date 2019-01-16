@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@drawable/category_outline"
+        android:orientation="vertical"
+        android:layout_margin="20dp"
+        android:padding="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_book"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/book"
+                app:text_="책" />
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_wear"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/colth"
+                app:text_="의류" />
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_dailySupplies"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/life"
+                app:text_="생활용품" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_electronics"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/elec"
+                app:text_="전자제품" />
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_beauty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/beauty"
+                app:text_="뷰티" />
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_sports"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/sport"
+                app:text_="스포츠" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_tiket"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/ticket"
+                app:text_="상품권/티켓" />
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_stationery"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/crang"
+                app:text_="문구" />
+
+            <com.with_tnt.myapplication3.main.CustomCategoryButton
+                android:id="@+id/btn_etc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:padding="25dp"
+                app:symbol="@drawable/colth"
+                app:text_="기타" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+
+    <!-- 카테고리 9 바둑판식 배열 -->

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="60dp"
+    android:paddingRight="60dp"
+    android:paddingTop="40dp"
+    android:gravity="center_horizontal"
+    android:background="#2A4067" >
+
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/logo"
+        android:id="@+id/imageView5" />
+
+    <EditText
+        android:id="@+id/finf_pw_name_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#ffffff"
+        android:ems="10"
+        android:hint="이름"
+        android:inputType="textPersonName"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:textColor="#ffffff"
+        android:textColorHint="#ffffff"
+        android:textSize="18dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/finf_pw_email_txt"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        android:hint="이메일"
+        android:textColorHint="#ffffff"
+        android:backgroundTint="#ffffff" />
+
+    <Button
+        android:text="찾기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/findPWButton"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="25dp"
+        android:textSize="20dp"
+        android:textColor="#2A4067"
+        android:background="#ffffff" />
+
+</LinearLayout>

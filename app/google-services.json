@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946600130293",
+    "firebase_url": "https://dealit-26176.firebaseio.com",
+    "project_id": "dealit-26176",
+    "storage_bucket": "dealit-26176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946600130293:android:aa0cc6a054a1753c",
+        "android_client_info": {
+          "package_name": "com.with_tnt.myapplication3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946600130293-v7nig2q5mhh86v274tqk7vl764hdqnm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCW-aZIfukno3pSXO6dO3P06A_s3Lq5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

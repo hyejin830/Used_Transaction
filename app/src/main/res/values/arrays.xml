@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_spinner_catrgory">
+        <item>선택</item>
+        <item>도서</item>
+        <item>의류</item>
+        <item>생활용품</item>
+        <item>전자제품</item>
+        <item>뷰티</item>
+        <item>스포츠</item>
+        <item>상품권/티켓</item>
+        <item>문구</item>
+        <item>기타</item>
+    </string-array>
+
+    <string-array name="data_spinner_state">
+        <item>선택</item>
+        <item>상</item>
+        <item>중</item>
+        <item>하</item>
+    </string-array>
+
+</resources>

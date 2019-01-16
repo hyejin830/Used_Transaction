@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\2017-04-30\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\Torrent Download\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\05-15_Integ_Version\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\KIM\\Desktop\\2017-05-08-JEONG\\ww\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\ANGELJIN\\Desktop\\INU\\TNT\\MyApplication3\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    }
+]
